@@ -34,7 +34,7 @@ graph TD
 
     subgraph L4 [Рівень застосунків - Application Layer]
         W1[Вебдодаток та Dashboard агронома]
-        M1[Мобільний застосунок для сповіщень Push/Telegram]
+        M1[Мобільний застосунок для сповіщень push/Telegram]
     end
 
     D1 --> N1
